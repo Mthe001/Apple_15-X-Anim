@@ -35,9 +35,9 @@ To set up and run this project locally, follow these steps:
 ✨ Animations with GSAP
 GSAP (GreenSock Animation Platform) powers the animations in this project, allowing smooth, high-performance transitions for the 3D models. Key animations include:
 
-Rotation and Scaling: For model transitions and interaction effects.
-Page Transitions: Smooth loading and transitions between sections.
-Scroll Animations: Interactive animations that trigger on scroll.
+-**Rotation and Scaling**: For model transitions and interaction effects.
+-**Page Transitions**: Smooth loading and transitions between sections.
+-**Scroll Animations**: Interactive animations that trigger on scroll.
 
 
 ### MY self
