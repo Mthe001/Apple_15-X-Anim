@@ -38,12 +38,16 @@ GSAP (GreenSock Animation Platform) powers the animations in this project, allow
 Rotation and Scaling: For model transitions and interaction effects.
 Page Transitions: Smooth loading and transitions between sections.
 Scroll Animations: Interactive animations that trigger on scroll.
+
+
+### MY self
+
 👤 About Myself
-Hello! I'm [Your Name], a passionate front-end developer and 3D enthusiast. My expertise lies in creating immersive web experiences using modern JavaScript frameworks like React.js and libraries like GSAP and Three.js for animations and 3D modeling.
 
-This project was inspired by my interest in 3D modeling and animation on the web, as well as my admiration for Apple's design philosophy. I thrive on creating projects that combine visual appeal with cutting-edge interactivity to enhance user experience.
-
-In my spare time, I love exploring the latest web technologies and honing my skills in creating engaging, responsive, and performant interfaces.
+ Love to listen myself as MThe001
+ Noob Developer 
+ Learning progress : [69/420] 
+ 
 
 Feel free to connect with me:
 
