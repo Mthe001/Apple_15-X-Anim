@@ -15,7 +15,6 @@ function Navbar() {
                     ))}
                 </div>
 
-
                 <div className="flex cursor-pointer items-baseline  gap-7 max-sm:justify-end max-sm:flex-1  ">
                     <img src={searchImg} width={18} height={18} />
                     <img src={bagImg} width={18} height={18} />
@@ -26,4 +25,4 @@ function Navbar() {
     )
 }
 
-export default Navbar
+export default Navbar;
