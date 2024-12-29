@@ -26,3 +26,32 @@ To set up and run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Mthe001/Apple_15-X-Anim
+cd Apple_15-X-Anim
+Install dependencies:
+
+bash
+Copy code
+npm install
+Run the project:
+
+bash
+Copy code
+npm start
+Your app will be available at http://localhost:3000 by default.
+
+✨ Animations with GSAP
+GSAP (GreenSock Animation Platform) powers the animations in this project, allowing smooth, high-performance transitions for the 3D models. Key animations include:
+
+Rotation and Scaling: For model transitions and interaction effects.
+Page Transitions: Smooth loading and transitions between sections.
+Scroll Animations: Interactive animations that trigger on scroll.
+👤 About Me
+Hi, I'm MThe001, a self-taught developer with a strong passion for coding and design. I love to learn new technologies and create engaging, user-friendly applications. Currently, I'm progressing in my development journey, working on various projects to enhance my skills.
+
+Learning Progress: 69/420
+Skills: React.js, GSAP, Three.js, JavaScript, HTML, CSS/SCSS
+Current Focus: Front-end development with a focus on animations and 3D modeling.
+Feel free to connect with me:
+
+📧 Email: mtheredwanulhaque@gmail.com
+🖥️ GitHub: https://github.com/Mthe001
